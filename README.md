@@ -1,0 +1,6 @@
+# Hand Detection and Gesture Control
+
+This project focuses on hand recognition and gesture control for the user's laptop keyboaard. It allows the user to play Chrome Dino via hand gestures and uses MediaPipe, openCV, PyautoGUI amongst other tools.
+
+Computers have slowly solidified their places in people’s lives, and with their extensive functionalities, our dependency on technology increases by the day. From the first touchscreen phones to the more recent voice assistants like Siri and Alexa, the immense impact of HCI can be seen- These technologies are so successful because of the fact that they feel so familiar to us - tapping an icon on the screen is much more convenient and familiar to us than dragging the cursor to an icon. Gradually, as the spotlight falls more and more on virtual and augmented reality, HCI will grow even more important. People will want computers to mimic reality in every sense - from using our limbs to feeling the five senses or using voice to interact with the world around us, redefining the term Virtual Reality. Starting with existing options, we aim to leverage the front-facing camera of the laptop, and attempt to make a more natural way of interaction.
+
